@@ -1,0 +1,16 @@
+{
+  "name": "square-connect-api-examples",
+  "version": "0.0.0",
+  "description": "This project was based on the original examples from [Square](https://squareup.com/us/en) at [https://github.com/square/connect-api-examples](https://github.com/square/connect-api-examples).",
+  "keywords": [],
+  "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/square-connect-api-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/square-connect-api-examples/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/square-connect-api-examples#readme"
+}
